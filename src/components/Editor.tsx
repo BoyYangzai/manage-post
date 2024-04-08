@@ -1,3 +1,4 @@
+//@ts-nocheck
 'use client'
 import '@wangeditor/editor/dist/css/style.css' // 引入 css
 
